@@ -24,6 +24,11 @@
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs",
     "status": "none"
 }, {
+    "name": "serverless-plugin-layer-manager",
+    "description": "Plugin that offers improved AWS Lambda layer management, imcludimg installation hooks and improved retain handling.",
+    "githubUrl": "https://github.com/henhal/serverless-plugin-layer-manager",
+    "status": "none"
+}, {
     "name": "serverless-plugin-apigateway-sqs",
     "description": "Plugin that creates an AWS APIGateway resource to connect to an AWS Simple Queue Service (SQS) without the use of a lambda.",
     "githubUrl": "https://github.com/CodeRecipe-dev/serverless-apigw-sqs-plugin",
